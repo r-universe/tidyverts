@@ -1,0 +1,22 @@
+[
+  {
+    "package": "fable",
+    "oncran": true
+  },
+  {
+    "package": "fabletools",
+    "oncran": true
+  },
+  {
+    "package": "feasts",
+    "oncran": true
+  },
+  {
+    "package": "tsibble",
+    "oncran": true
+  },
+  {
+    "package": "tsibbledata",
+    "oncran": true
+  }
+]
