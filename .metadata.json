@@ -1,10 +1,14 @@
 [
   {
-    "package": "fable",
+    "package": "tsibble",
     "oncran": true
   },
   {
-    "package": "fabletools",
+    "package": "tsibbledata",
+    "oncran": true
+  },
+  {
+    "package": "fable",
     "oncran": true
   },
   {
@@ -12,11 +16,7 @@
     "oncran": true
   },
   {
-    "package": "tsibble",
-    "oncran": true
-  },
-  {
-    "package": "tsibbledata",
+    "package": "fabletools",
     "oncran": true
   }
 ]
