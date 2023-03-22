@@ -28,8 +28,3 @@
 	url = https://github.com/tidyverts/tsibbledata
 	shallow = true
 	registered = true
-[submodule "distributional"]
-	path = distributional
-	url = https://github.com/mitchelloharawild/distributional
-	shallow = true
-	registered = false
