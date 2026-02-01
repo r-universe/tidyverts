@@ -8,6 +8,9 @@
 [submodule "fabletools"]
 	path = fabletools
 	url = https://github.com/tidyverts/fabletools
+[submodule "fasster"]
+	path = fasster
+	url = https://github.com/tidyverts/fasster
 [submodule "feasts"]
 	path = feasts
 	url = https://github.com/tidyverts/feasts
